@@ -1,13 +1,5 @@
 <div align="center">
 
-<pre>
-    _    _     _____ _  ______  
-   / \  | |   | ____| |/ / ___| 
-  / _ \ | |   |  _| | ' /\___ \ 
- / ___ \| |___| |___| . \ ___) |
-/_/   \_\_____|_____|_|\_\____/ 
-</pre>
-
 # hey, i'm Aleks
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Computer+Engineering+student;Building+Resonant;Learning+Linux+%26+systems+engineering;Making+technology+more+accessible;Sometimes+I+just+make+things+because+I+can" alt="Typing SVG" />
