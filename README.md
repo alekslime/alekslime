@@ -158,8 +158,8 @@ When I'm not staring at a terminal:
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="assets/smug-cat-1.jpg" width="250" alt="a smug smiling cat" /><br/><sub>smug mode: on</sub></td>
-    <td align="center"><img src="assets/spoon-cat.jpg" width="250" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat, zero regrets</sub></td>
+    <td align="center"><img src="assets/smug-cat-1.jpg" width="250" alt="a smug smiling cat" /><br/><sub>hello</sub></td>
+    <td align="center"><img src="assets/spoon-cat.jpg" width="250" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat</sub></td>
   </tr>
 </table>
 </div>
