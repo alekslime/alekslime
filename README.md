@@ -1,8 +1,16 @@
 <div align="center">
 
-# ⚡ hey, i'm Aleks
+<pre>
+    _    _     _____ _  ______  
+   / \  | |   | ____| |/ / ___| 
+  / _ \ | |   |  _| | ' /\___ \ 
+ / ___ \| |___| |___| . \ ___) |
+/_/   \_\_____|_____|_|\_\____/ 
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Computer+Engineering+student+%F0%9F%92%BB;Building+Resonant+%F0%9F%8E%A7;Learning+Linux+%26+systems+engineering+%F0%9F%90%A7;Making+technology+more+accessible+%F0%9F%8C%8D;Sometimes+I+just+make+things+because+I+can+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+# hey, i'm Aleks
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Computer+Engineering+student;Building+Resonant;Learning+Linux+%26+systems+engineering;Making+technology+more+accessible;Sometimes+I+just+make+things+because+I+can" alt="Typing SVG" />
 
 <br>
 
@@ -17,30 +25,30 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/alekslime)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aleks-lime-896673329/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧠 a little about me
+## a little about me
 
 I'm a Computer Engineering student based in **Tirana, Albania**, interested in the parts of technology that sit close to the machine.
 
-* 🎓 Studying **Computer Engineering**
-* 🔨 Currently building **Resonant**, an accessible AI learning platform
-* 🐧 Learning more about **Linux, systems engineering, operating systems & hardware**
-* 🧩 Interested in **AI, software, embedded systems and developer tooling**
-* 🎥 Also work with **video production and editing**
-* 🏆 **1st place — GDG Tirana 2026** with Resonant-AI
-* 🛠️ I like understanding **how things actually work**, not just making them work
+* Studying **Computer Engineering**
+* Currently building **Resonant**, an accessible AI learning platform
+* Learning more about **Linux, systems engineering, operating systems & hardware**
+* Interested in **AI, software, embedded systems and developer tooling**
+* Also work with **video production and editing**
+* **1st place — GDG Tirana 2026** with Resonant-AI
+* I like understanding **how things actually work**, not just making them work
 
 > *Build it. Break it. Understand why it broke. Build it better.*
 
 ---
 
-## 🎧 currently building
+## currently building
 
 ### Resonant
 
@@ -52,20 +60,20 @@ The project is especially focused on students who are blind or visually impaired
 
 **Currently working on:**
 
-* 🎙️ Voice-first interaction
-* 👁️ Multimodal learning materials
-* 🧠 AI-powered explanations and tutoring
-* 📈 Adaptive learning & progress
-* 📱 Native Android experience
-* ♿ Accessibility-first interaction
-* 📳 Haptic navigation and feedback
-* 🌍 Exploring an Albania-based pilot
+* Voice-first interaction
+* Multimodal learning materials
+* AI-powered explanations and tutoring
+* Adaptive learning & progress
+* Native Android experience
+* Accessibility-first interaction
+* Haptic navigation and feedback
+* Exploring an Albania-based pilot
 
 [![Resonant](https://img.shields.io/badge/Resonant-AI-FF8A00?style=for-the-badge)](https://github.com/alekslime/Resonant-AI)
 
 ---
 
-## 🧰 toolbox
+## toolbox
 
 <div align="center">
 
@@ -96,38 +104,38 @@ The project is especially focused on students who are blind or visually impaired
 
 ---
 
-## 🚧 other things i'm building
+## other things i'm building
 
-### 🐧 Periphery OS
+### Periphery OS
 
 An Ubuntu-based Linux distribution for Computer Science and Computer Engineering students.
 
 The goal is to make the operating system itself part of the learning experience:
 
-* 🔬 System-call tracing
-* 🧠 Memory & filesystem visualization
-* 📚 Offline documentation
-* 🛠️ Debugging tools
-* 💻 Systems experimentation
-* 🎯 Deliberate practice
-* 🤖 AI assistants as **mentors**, not answer machines
+* System-call tracing
+* Memory & filesystem visualization
+* Offline documentation
+* Debugging tools
+* Systems experimentation
+* Deliberate practice
+* AI assistants as **mentors**, not answer machines
 
 ---
 
-### 🤖 TinyHelper
+### TinyHelper
 
 A local, voice-first desktop copilot built around the idea that your assistant shouldn't need the cloud to be useful.
 
-* 🏠 Runs locally
-* 🎙️ Voice-first
-* 👀 Optional visual understanding
-* 🧠 Local LLMs
-* 🔒 No cloud AI APIs
-* 🖥️ Designed for my own hardware
+* Runs locally
+* Voice-first
+* Optional visual understanding
+* Local LLMs
+* No cloud AI APIs
+* Designed for my own hardware
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -143,17 +151,17 @@ A local, voice-first desktop copilot built around the idea that your assistant s
 
 ---
 
-## 🎥 outside of code
+## outside of code
 
 When I'm not staring at a terminal:
 
-* 🎬 Video production & editing
-* 📷 Camera work
-* 🎮 Playing games
-* 🎸 Listening to music
-* 🔧 Messing with hardware just to see what happens
+* Video production & editing
+* Camera work
+* Playing games
+* Listening to music
+* Messing with hardware just to see what happens
 
-### ❤️ me
+### me
 
 <div align="center">
 <table>
@@ -166,7 +174,7 @@ When I'm not staring at a terminal:
 
 ---
 
-## 🌙 currently
+## currently
 
 ```text
 learning       → Linux / systems / Android / software engineering
@@ -181,6 +189,12 @@ trying to fix  → everything I broke while learning the above
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=100&section=footer" width="100%" />
+
+<pre>
+ /\_/\
+( o.o )
+ &gt; ^ &lt;
+</pre>
 
 ### thanks for stopping by.
 
