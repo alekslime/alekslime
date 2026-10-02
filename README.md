@@ -170,9 +170,6 @@ playing with   → local AI + hardware
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=100&section=footer" width="100%" />
-
-
 ### thanks for stopping by.
 
 **check out my projects down below**
