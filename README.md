@@ -140,11 +140,11 @@ Just local models, voice input, some computer vision stuff and whatever else I d
 
 ## when i'm not coding
 
-* 🎥 Video production and editing
-* 🎮 Games
-* 🎧 Music
-* 🔧 Hardware
-* 🐧 Ricing
+*  Video production and editing
+*  Games
+*  Music
+*  Hardware
+*  Ricing
 
 <div align="center">
 <table>
