@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, i'm Aleks
+# hey, i'm aleks
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Computer+Engineering+student;Building+Resonant;Learning+Linux+%26+systems+engineering;Making+technology+more+accessible;Sometimes+I+just+make+things+because+I+can" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F4A261&center=true&vCenter=true&width=600&lines=Computer+Engineering+student;Building+Resonant;Learning+Linux+%26+systems;Making+things+and+breaking+them;Sometimes+I+just+make+things+because+I+can" alt="Typing SVG" />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-**Computer Engineering student · Software Developer · Videographer**
+**computer engineering student · software developer · videographer**
 
 <br>
 
@@ -26,46 +26,43 @@
 
 ## a little about me
 
-I'm a Computer Engineering student based in **Tirana, Albania**, interested in the parts of technology that sit close to the machine.
+I'm studying Computer Engineering in Tirana.
 
-* Studying **Computer Engineering**
-* Currently building **Resonant**, an accessible AI learning platform
-* Learning more about **Linux, systems engineering, operating systems & hardware**
-* Interested in **AI, software, embedded systems and developer tooling**
-* Also work with **video production and editing**
-* **1st place — GDG Tirana 2026** with Resonant-AI
-* I like understanding **how things actually work**, not just making them work
+Most of the time I'm either coding, trying to understand something I don't understand yet, or making something unnecessarily complicated because I thought it would be fun.
 
-> *Build it. Break it. Understand why it broke. Build it better.*
+* Currently working on **Resonant**
+* Learning **Linux, systems and low-level stuff**
+* Interested in **AI, software, hardware and embedded systems**
+* I also do **video production and editing**
 
 ---
 
-## currently building
+## Resonant
 
-### Resonant
+**A personal AI teacher that talks, reads, sees, and remembers.**
 
-**Your personal AI teacher that talks, reads, sees, and remembers.**
+This is the project I've been working on for a while.
 
-Resonant is an accessibility-focused learning platform designed to make studying possible through **voice, multimodal interaction, adaptive learning and accessible UX**.
+The idea is pretty simple: make learning something you can actually do through conversation, voice and other ways of interacting with the material.
 
-The project is especially focused on students who are blind or visually impaired, while still being designed for **every student**.
+I'm especially interested in making it usable for **blind and visually impaired students**, but I don't want it to be an app that's only useful for them.
 
-**Currently working on:**
+Right now I'm working on:
 
-* Voice-first interaction
-* Multimodal learning materials
-* AI-powered explanations and tutoring
-* Adaptive learning & progress
-* Native Android experience
-* Accessibility-first interaction
-* Haptic navigation and feedback
-* Exploring an Albania-based pilot
+* Voice interaction
+* Uploading and understanding learning materials
+* AI tutoring
+* Progress and adaptive learning
+* Android app
+* Accessibility
+* Haptic controls
+* Getting the prototype to a point where I can actually put it in people's hands
 
 [![Resonant](https://img.shields.io/badge/Resonant-AI-FF8A00?style=for-the-badge)](https://github.com/alekslime/Resonant-AI)
 
 ---
 
-## toolbox
+## stuff i use
 
 <div align="center">
 
@@ -79,51 +76,49 @@ The project is especially focused on students who are blind or visually impaired
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks & development
+### Frameworks & Platforms
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### AI & local development
+### Tools & Technologies
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
 ---
 
-## other things i'm building
+## other projects
 
 ### Periphery OS
 
-An Ubuntu-based Linux distribution for Computer Science and Computer Engineering students.
+I've been working on an Ubuntu-based distro aimed at CS and CE students.
 
-The goal is to make the operating system itself part of the learning experience:
+The point isn't just to make Ubuntu look different. I want the OS to actually help you learn what's going on underneath it.
 
-* System-call tracing
-* Memory & filesystem visualization
+Things like:
+
+* System calls
+* Memory and filesystems
+* Debugging
 * Offline documentation
-* Debugging tools
-* Systems experimentation
-* Deliberate practice
-* AI assistants as **mentors**, not answer machines
+* Systems experiments
+* Practice instead of just getting the answer
+* AI tools that help you learn instead of doing everything for you
 
 ---
 
 ### TinyHelper
 
-A local, voice-first desktop copilot built around the idea that your assistant shouldn't need the cloud to be useful.
+A local voice assistant for my PC.
 
-* Runs locally
-* Voice-first
-* Optional visual understanding
-* Local LLMs
-* No cloud AI APIs
-* Designed for my own hardware
+No cloud AI, no subscriptions, no sending everything somewhere else.
+
+Just local models, voice input, some computer vision stuff and whatever else I decide to add to it.
 
 ---
 
@@ -143,17 +138,13 @@ A local, voice-first desktop copilot built around the idea that your assistant s
 
 ---
 
-## outside of code
+## when i'm not coding
 
-When I'm not staring at a terminal:
-
-* Video production & editing
-* Camera work
-* Playing games
-* Listening to music
-* Messing with hardware just to see what happens
-
-### me
+* 🎥 Video production and editing
+* 🎮 Games
+* 🎧 Music
+* 🔧 Hardware
+* 🐧 Ricing
 
 <div align="center">
 <table>
@@ -166,14 +157,13 @@ When I'm not staring at a terminal:
 
 ---
 
-## currently
+## right now
 
 ```text
-learning       → Linux / systems / Android / software engineering
+learning       → Linux / systems / Android
 building       → Resonant
-experimenting  → Periphery OS
-exploring      → local AI + hardware
-trying to fix  → everything I broke while learning the above
+messing with   → Periphery OS
+playing with   → local AI + hardware
 ```
 
 ---
@@ -182,14 +172,9 @@ trying to fix  → everything I broke while learning the above
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A261&height=100&section=footer" width="100%" />
 
-<pre>
- /\_/\
-( o.o )
- &gt; ^ &lt;
-</pre>
 
 ### thanks for stopping by.
 
-**I like to mess up and retry until I do it right**
+**check out my projects down below**
 
 </div>
