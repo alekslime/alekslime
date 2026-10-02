@@ -153,7 +153,7 @@ When I'm not staring at a terminal:
 * 🎸 Listening to music
 * 🔧 Messing with hardware just to see what happens
 
-### 🐾 the cat gallery
+### ❤️ me
 
 <div align="center">
 <table>
