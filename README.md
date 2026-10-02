@@ -6,6 +6,12 @@
 
 <br>
 
+<img src="assets/smug-cat-2.jpg" width="260" alt="a very smug smiling cat" />
+
+<sub><i>this cat approves of your visit</i></sub>
+
+<br>
+
 **Computer Engineering student · Software Developer · Videographer**
 
 <br>
@@ -146,6 +152,17 @@ When I'm not staring at a terminal:
 * 🎮 Playing games
 * 🎸 Listening to music
 * 🔧 Messing with hardware just to see what happens
+
+### 🐾 the cat gallery
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="assets/smug-cat-1.jpg" width="250" alt="a smug smiling cat" /><br/><sub>smug mode: on</sub></td>
+    <td align="center"><img src="assets/spoon-cat.jpg" width="250" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat, zero regrets</sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
