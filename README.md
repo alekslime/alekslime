@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 # hey, i'm aleks
 
@@ -46,6 +46,13 @@ I like having both a technical and creative outlet. They're pretty different wor
 
 <sub>My main project. Something I've been building and refining for years.</sub>
 
+<div align="center">
+<img src="assets/cat-resonant.jpg" width="200" alt="a cat with lightning and glowing eyes" />
+<br/><sub><i>confidence level: ascended</i></sub>
+</div>
+
+<br>
+
 Resonant is an Android learning companion designed with blind and visually impaired students in mind.
 
 The goal is to make educational material accessible through conversation, voice interaction, and an adaptive learning experience rather than relying entirely on visual interfaces.
@@ -63,7 +70,7 @@ Some of the things I'm working on:
 
 **A few milestones:**
 
-- 🏆 1st place at **GDG Tirana 2026**.
+- 1st place at **GDG Tirana 2026**.
 - Participated in the **Meta Global AI Developer Hackathon 2026**.
 - Presented at Future2Tech, including to representatives of the French Embassy.
 - Working towards getting the prototype into the hands of actual students.
@@ -77,6 +84,13 @@ Some of the things I'm working on:
 ### Sentry
 
 A local voice assistant for my PC.
+
+<div align="center">
+<img src="assets/cat-sentry.jpg" width="200" alt="a grumpy cat in a tiny outfit" />
+<br/><sub><i>confidence level: on duty, still under construction</i></sub>
+</div>
+
+<br>
 
 The idea is to have a useful desktop companion that runs locally, without depending on cloud AI services, subscriptions or sending personal data to external servers.
 
@@ -196,8 +210,10 @@ I enjoy the entire process, from being behind the camera to putting together the
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="assets/smug-cat-1.jpg" width="250" alt="a smug smiling cat" /><br/><sub>hello</sub></td>
-    <td align="center"><img src="assets/spoon-cat.jpg" width="250" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat</sub></td>
+    <td align="center"><img src="assets/smug-cat-1.jpg" width="200" alt="a smug smiling cat" /><br/><sub>hello</sub></td>
+    <td align="center"><img src="assets/spoon-cat.jpg" width="200" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat</sub></td>
+    <td align="center"><img src="assets/cat-4k.jpg" width="200" alt="a calm tabby cat looking at the camera" /><br/><sub>4k quality</sub></td>
+    <td align="center"><img src="assets/dog-happy.jpg" width="200" alt="a happy dachshund with a heart" /><br/><sub>guest appearance</sub></td>
   </tr>
 </table>
 </div>
