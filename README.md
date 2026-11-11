@@ -32,6 +32,7 @@ I enjoy building things, figuring out how they work, and occasionally making my 
 Most of my time goes into software development, experimenting with hardware and Linux, or working behind a camera.
 
 - Building **Resonant**, my personal AI learning companion.
+- Building **Periphery OS**, a Linux distribution for CS and CE students.
 - Exploring **Linux, operating systems, computer architecture and low-level programming**.
 - Interested in **AI, software engineering, embedded systems and hardware**.
 - Working in **videography, photography, video production and post-production**.
@@ -79,7 +80,31 @@ Some of the things I'm working on:
 
 ---
 
-## other things i've built
+## other projects
+
+### Periphery OS
+
+An Ubuntu 26.04 LTS derivative built for CS and CE students, focused on deliberate-practice learning environments.
+
+<div align="center">
+<img src="assets/cat-periphery.jpg" width="200" alt="a wide-eyed orange and white cat" />
+<br/><sub><i>confidence level: boots, installs, and has opinions</i></sub>
+</div>
+
+<br>
+
+I build it with my own debootstrap-based pipeline instead of a respin tool, so I own every step from rootfs to ISO. The whole build runs with one command, and the result has been boot-tested on a real Calamares install.
+
+What's working so far:
+
+- Custom Calamares installer branding.
+- Full visual identity: GRUB menu, Plymouth boot splash, SDDM login screen and Plasma wallpaper.
+- **Periphery Welcome**, a first-boot app that lets students tick off the tools for their field and installs them through apt, snap and pip. It covers 11 fields and 51 tools, and every package name was checked against real sources.
+- An overlay system that tracks every rootfs customization as real files in git, so builds are reproducible.
+
+Next up is growing the learning-environment features beyond the tool installer.
+
+[![Periphery OS](https://img.shields.io/badge/Periphery%20OS-Repository-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/alekslime/periphery-builder)
 
 ### Sentry
 
@@ -106,6 +131,27 @@ Things I've been experimenting with:
 
 Built with privacy and local execution as priorities. Still a work in progress.
 
+### GPUse
+
+A peer-to-peer GPU marketplace, think "Airbnb for compute".
+
+<div align="center">
+<img src="assets/cat-gpuse.jpg" width="200" alt="a calm tabby cat looking at the camera" />
+<br/><sub><i>confidence level: looks great, nothing is wired up yet</i></sub>
+</div>
+
+<br>
+
+Renters pick a real person's GPU, send a prompt, and pay per result instead of renting cloud GPUs by the hour. Hosts share their idle gaming PC, set their own prices, and get paid when someone runs a job on their machine.
+
+A team project. I built the landing page, GPU browsing, job history, and the login and signup screens, plus the README screenshots.
+
+- Plain HTML and CSS, no framework and no build step.
+- Design tokens taken directly from the Figma design.
+- Static frontend prototype for now, with sample data and no backend yet.
+
+[![GPUse](https://img.shields.io/badge/GPUse-Repository-A3FF00?style=for-the-badge&logoColor=black)](https://github.com/alekslime/gpuse)
+
 ---
 
 ## things i work with
@@ -121,12 +167,14 @@ Built with privacy and local execution as priorities. Still a work in progress.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Frameworks & Development
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PyQt](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Tools & Technologies
 
@@ -210,10 +258,8 @@ I enjoy the entire process, from being behind the camera to putting together the
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="assets/smug-cat-1.jpg" width="200" alt="a smug smiling cat" /><br/><sub>hello</sub></td>
-    <td align="center"><img src="assets/spoon-cat.jpg" width="200" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat</sub></td>
-    <td align="center"><img src="assets/cat-4k.jpg" width="200" alt="a calm tabby cat looking at the camera" /><br/><sub>4k quality</sub></td>
-    <td align="center"><img src="assets/dog-happy.jpg" width="200" alt="a happy dachshund with a heart" /><br/><sub>guest appearance</sub></td>
+    <td align="center"><img src="assets/smug-cat-1.jpg" width="250" alt="a smug smiling cat" /><br/><sub>hello</sub></td>
+    <td align="center"><img src="assets/spoon-cat.jpg" width="250" alt="a black cat with a spoon on its head" /><br/><sub>spoon hat</sub></td>
   </tr>
 </table>
 </div>
@@ -224,6 +270,7 @@ I enjoy the entire process, from being behind the camera to putting together the
 
 ```text
 building       → Resonant
+building       → Periphery OS
 developing     → Sentry
 learning       → Linux / systems / low-level programming
 working on     → software + video production
